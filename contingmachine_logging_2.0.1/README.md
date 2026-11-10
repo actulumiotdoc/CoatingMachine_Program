@@ -7,11 +7,11 @@
 ## แนวทางการแก้ไขปัญหา
 
 - Wiring
-    [x] แก้ไขสายสื่อสารใหม่ ให้เป็นไปตามมาตรฐาน Modbus Daisy Chain https://www.sevensensor.com/what-is-daisy-chain-connection-how-to-make-daisy-chain-connection-between-sensors
+    [] แก้ไขสายสื่อสารใหม่ ให้เป็นไปตามมาตรฐาน Modbus Daisy Chain https://www.sevensensor.com/what-is-daisy-chain-connection-how-to-make-daisy-chain-connection-between-sensors
 - PLC
-    [x] ยกเลิกฟังก์ชันขออ่านข้อมูลบอร์ดอุณภูมิ
-    [x] คำนวณความเร็วรอบและผลผลิตอย่างเดียว
-    [x] สร้างพื้นที่เก็บข้อมูลสำหรับอุณหภูมิที่จะถูกส่งมาจาก Orange Pi
+    [] ยกเลิกฟังก์ชันขออ่านข้อมูลบอร์ดอุณภูมิ
+    [] คำนวณความเร็วรอบและผลผลิตอย่างเดียว
+    [] สร้างพื้นที่เก็บข้อมูลสำหรับอุณหภูมิที่จะถูกส่งมาจาก Orange Pi
 - Orange Pi
-    [x] อัพเดต-อัพเกรด Packageใหม่
-    [x] ปรับแก้โปรแกรมใหม่สำหรับฟังก์ชันอ่านข้อมูลบอร์ดอุณหภูมิและส่งข้อมูลให้ PLC
+    [] อัพเดต-อัพเกรด Packageใหม่
+    [] ปรับแก้โปรแกรมใหม่สำหรับฟังก์ชันอ่านข้อมูลบอร์ดอุณหภูมิและส่งข้อมูลให้ PLC
