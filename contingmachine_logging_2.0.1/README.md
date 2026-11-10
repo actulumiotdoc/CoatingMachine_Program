@@ -1,10 +1,10 @@
-##ปรับปรุงโปรแกรมเครื่องเคลือบ
+## **ปรับปรุงโปรแกรมเครื่องเคลือบ**
 
-ปัญหโปรแกรมปัจจุบัน
+# ปัญหโปรแกรมปัจจุบัน
 
 - ข้อมูลบน Protocols Modbus Lose เกิดชการสื่อสารชนกัน อาการคือ Slave บางตัวไม่สามารถส่งข้อมูลกลับมาหา Master ส่งผลให้ Slave อื่นไม่สามารถสื่อสารได้ในบางช่วง
 
-แนวทางการแก้ไขปัญหา
+# แนวทางการแก้ไขปัญหา
 
 - Wiring
     - แก้ไขสายสื่อสารใหม่ ให้เป็นไปตามมาตรฐาน Modbus Daisy Chain https://www.sevensensor.com/what-is-daisy-chain-connection-how-to-make-daisy-chain-connection-between-sensors
